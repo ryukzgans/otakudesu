@@ -1,5 +1,5 @@
 # otakudesu
-Otakudesu GD Grabber
+Otakudesu GDrive Grabber with auto shortlink
 
 <p>
   <img src="images/search.png">
