@@ -3,7 +3,7 @@
 import requests as req, os, pyshorteners
 from bs4 import BeautifulSoup as bs
 
-url = "https://otakudesu.info/"
+url = "https://otakudesu.pro/"
 
 def logo():
     os.system("clear")
